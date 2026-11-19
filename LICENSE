@@ -1,0 +1,26 @@
+Unitree G1 Hareket Taklidi Araştırması (unitree-g1-hareket-taklidi-arastirma)
+
+Copyright (c) 2026 EP Robot Teknoloji (Robotlar.org)
+
+Bu deponun metni (README ve tablolar) Creative Commons Attribution 4.0 International (CC BY 4.0)
+lisansıyla yayımlanır.
+The text of this repository (README and tables) is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Paylaşabilir ve uyarlayabilirsiniz; atıf yapın, lisans bağlantısını verin ve değişiklik yaptıysanız belirtin.
+You may share and adapt the material, provided you give attribution, link to the license and indicate if
+changes were made.
+
+Önerilen atıf / Suggested attribution:
+"Unitree G1 Hareket Taklidi Araştırması, EP Robot Teknoloji (Robotlar.org), CC BY 4.0,
+https://github.com/Unitree-Turkiye/unitree-g1-hareket-taklidi-arastirma"
+
+Bu metin özgün bir Türkçe araştırma özetidir; anılan projelerin metinlerinden kopyalanmamıştır.
+Bu depoda kaynak kod, model, hareket verisi ya da medya dosyası bulunmaz. Anılan projelerin (BeyondMimic,
+SuperMimic, supermimic_vibed, InstantTrack, BlinkMimic, XMimic, MacMimic, mjlab, GEAR SONIC, ProtoMotions)
+kodu, modelleri ve verileri (LAFAN1, AMASS, BONES-SEED vb.) kendi sahiplerinin lisanslarına tabidir.
+This text is an original Turkish research summary. This repository holds no source code, models, motion
+data or media files; the projects and datasets it describes remain under their owners' licenses.
